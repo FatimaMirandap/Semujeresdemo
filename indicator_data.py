@@ -12,7 +12,7 @@ indicator_details = {
         'Línea Base': '0.739 (Unidad de medida: Puntos, Año de línea base: 2012)',
         'Verificación': 'Indicadores de Desarrollo Humano y Género en México: nueva metodología, 2014.',
         'link': 'https://www.mx.undp.org/content/mexico/es/home/library/poverty/indicadores-de-desarrollo-humano-y-genero-en-mexico--nueva-metod.html',
-        'file': r"Sistema de Indicadores_actualización2024\Desarrollo social\Índice_de_Desarrollo_Humano_391.xlsx"
+        'file': r"Sistema de Indicadores_actualización2024/Desarrollo social/Índice_de_Desarrollo_Humano_391.xlsx"
     },
     'Índice de Desarrollo Humano en Educación para las Mujeres': {
         'Descripción': 'Mide las posibilidades de desarrollo de las mujeres en el ámbito de educación, según los años promedio de estudios.',
@@ -23,7 +23,7 @@ indicator_details = {
         'Línea Base': '0.65 (Unidad de medida: Puntos, Año de línea base: 2012)',
         'Verificación': 'Indicadores de Desarrollo Humano y Género en México: nueva metodología, 2014.',
         'link': 'https://www.mx.undp.org/content/mexico/es/home/library/poverty/indicadores-de-desarrollo-humano-y-genero-en-mexico--nueva-metod.html',
-        'file': r"Sistema de Indicadores_actualización2024\Desarrollo social\Índice_de_Desarrollo_Humano_en_Educación_para_las_Mujeres_388.xlsx"
+        'file': r"Sistema de Indicadores_actualización2024/Desarrollo social/Índice_de_Desarrollo_Humano_en_Educación_para_las_Mujeres_388.xlsx"
     },
     'Índice de Desarrollo Humano en Ingreso de las Mujeres': {
         'Descripción': 'Mide el grado de desarrollo de las mujeres según su ingreso per cápita.',
@@ -34,7 +34,7 @@ indicator_details = {
         'Línea Base': '0.77 (Unidad de medida: Puntos, Año de línea base: 2012)',
         'Verificación': 'Indicadores de Desarrollo Humano y Género en México: nueva metodología, 2014.',
         'link': 'https://www.mx.undp.org/content/mexico/es/home/library/poverty/indicadores-de-desarrollo-humano-y-genero-en-mexico--nueva-metod.html',
-        'file': r"Sistema de Indicadores_actualización2024\Desarrollo social\Índice_de_Desarrollo_Humano_en_Ingreso_de_las_Mujeres_387.xlsx"
+        'file': r"Sistema de Indicadores_actualización2024/Desarrollo social/Índice_de_Desarrollo_Humano_en_Ingreso_de_las_Mujeres_387.xlsx"
     },
     'Índice de Desarrollo Humano en Salud para las Mujeres': {
         'Descripción': 'Mide la capacidad básica de contar con una vida larga y saludable, estimada por el índice de salud mediante la esperanza de vida al nacer de las mujeres.',
@@ -45,7 +45,7 @@ indicator_details = {
         'Línea Base': '0.91 (Unidad de medida: Puntos, Año de línea base: 2012)',
         'Verificación': 'Indicadores de Desarrollo Humano y Género en México: nueva metodología, 2014.',
         'link': 'https://www.mx.undp.org/content/mexico/es/home/library/poverty/indicadores-de-desarrollo-humano-y-genero-en-mexico--nueva-metod.html',
-        'file': r"Sistema de Indicadores_actualización2024\Desarrollo social\Índice_de_Desarrollo_Humano_en_Salud_para_las_Mujeres_389.xlsx"
+        'file': r"Sistema de Indicadores_actualización2024/Desarrollo social/Índice_de_Desarrollo_Humano_en_Salud_para_las_Mujeres_389.xlsx"
     },
     'Índice de Desigualdad de Género': {
         'Descripción': 'El índice muestra la pérdida en desarrollo humano debido a la desigualdad entre logros de mujeres y hombres en tres dimensiones: salud reproductiva, empoderamiento y participación en el mercado laboral.',
@@ -56,7 +56,7 @@ indicator_details = {
         'Línea Base': '0.39 (Unidad de medida: Puntos, Año de línea base: 2012)',
         'Verificación': 'Indicadores de Desarrollo Humano y Género en México: nueva metodología, 2014.',
         'link': 'https://www.mx.undp.org/content/mexico/es/home/library/poverty/indicadores-de-desarrollo-humano-y-genero-en-mexico--nueva-metod.html',
-        'file': r"Sistema de Indicadores_actualización2024\Desarrollo social\Índice_de_Desigualdad_de_Género_392.xlsx"
+        'file': r"Sistema de Indicadores_actualización2024/Desarrollo social/Índice_de_Desigualdad_de_Género_392.xlsx"
     },
     'Promedio de horas a la semana dedicadas al trabajo no remunerado de los hogares': {
         'Descripción': 'Mide el promedio de horas a la semana que dedican las mujeres, de 12 años y más, al trabajo no remunerado de los hogares. El promedio de horas a la semana dedicadas al trabajo no remunerado de los hogares se recaba a través de la Encuesta Nacional sobre Uso del Tiempo (ENUT), en el cual se contabiliza la población de 12 años y más que realiza actividades productivas, tasa de participación, horas semanales con su porcentaje y promedio, por entidad federativa, tipo de trabajo, grupo y tipo de actividad según sexo.',
