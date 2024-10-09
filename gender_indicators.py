@@ -7,17 +7,6 @@ from categories_data import categories
 # Define la ruta base de los archivos multimedia
 base_path = os.path.join(os.path.dirname(__file__), 'material')
 
-indicator_details = {
-    'Índice de desarrollo humano': {
-        'Descripción': 'Mide el grado de Desarrollo Humano de las personas en México desde tres dimensiones: salud, educación e ingreso.',
-        'Periodicidad': 'Decenal',
-        'Fórmula': 'A=A',
-        'Fuente': 'Programa de las Naciones Unidas para el Desarrollo en México (PNUD).',
-        'Línea Base': '0.739 (Unidad de medida: Puntos, Año de línea base: 2012)',
-        'Verificación': 'Indicadores de Desarrollo Humano y Género en México: nueva metodología, 2014.',
-        'link': 'https://www.mx.undp.org/content/mexico/es/home/library/poverty/indicadores-de-desarrollo-humano-y-genero-en-mexico--nueva-metod.html',
-        'file': r"Sistema de Indicadores_actualización2024\Desarrollo social\Índice_de_Desarrollo_Humano_391.xlsx"
-
 # Función para cargar los estilos CSS personalizados
 def load_gender_indicators_styles():
     st.markdown("""
