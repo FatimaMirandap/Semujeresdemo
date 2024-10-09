@@ -1,6 +1,7 @@
 import os
+import streamlit as st
 #
-base_path = r"C:\Users\Fatim\Downloads\SEMUJERES\DESARROLLO\streamlitsemujeresapp\material"
+base_path = os.path.join(os.path.dirname(__file__), 'material')
 
 indicator_details = {
     'Índice de desarrollo humano': {
