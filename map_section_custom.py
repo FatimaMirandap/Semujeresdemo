@@ -26,7 +26,7 @@ def show_map_section():
     st.title("Mapa Digital")
     st.write("Haz zoom de acuerdo al propósito de consulta.")
 
-    base_path = r"C:\Users\Fatim\Downloads\SEMUJERES\DESARROLLO\streamlitsemujeresapp\material"
+    base_path = os.path.join(os.path.dirname(__file__), 'material')
 
     def get_layer_label(layer):
         return {
